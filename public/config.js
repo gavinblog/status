@@ -1,12 +1,12 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'IMSYY 站点监测',
+  SiteName: '毕少侠 By Geekswg 站点监测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'u1022423-6ffcda436b183008644c691c',
+    'u2107243-92c5a68e7f8e0abbd2c11a87',
   ],
 
   // 日志天数
@@ -19,15 +19,15 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://www.imsyy.top/'
+      url: 'https://geekswg.js.cool/'
     },
     {
       text: '博客',
-      url: 'https://blog.imsyy.top/'
+      url: 'https://blog.geekswg.top/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/imsyy/'
+      url: 'https://github.com/geekswg/'
     },
   ],
 };
