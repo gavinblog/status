@@ -19,11 +19,15 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://geekswg.js.cool/'
+      url: 'https://home.geekswg.top/'
+    },
+    {
+      text: '导航',
+      url: 'https://nav.geekswg.top/'
     },
     {
       text: '博客',
-      url: 'https://blog.geekswg.top/'
+      url: 'https://geekswg.js.cool/'
     },
     {
       text: 'GitHub',
