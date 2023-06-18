@@ -31,7 +31,7 @@ window.Config = {
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/geekswg/'
+      url: 'https://github.com/gavinblog/status'
     },
   ],
 };
