@@ -30,10 +30,6 @@ jobs:
       - name: Build application
         run: pnpm build
 
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-
       - name: Deploy to NuxtHub
         uses: nuxt-hub/action@v1
         id: deploy
